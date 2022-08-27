@@ -1,10 +1,10 @@
 ![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends-banner.gif)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ajolsavsky/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajolsavsky&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajolsavsky&repo=convoychat" />
+<a href="https://github.com/anuraghazra/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajolsavsky" />
 </a>
 
 - 👋 Hi, I’m @ajolsavsky
