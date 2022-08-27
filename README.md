@@ -10,7 +10,7 @@ Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajolsavsky;layout=compact)](https://github.com/ajolsavsky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajolsavsky&layout=compact)](https://github.com/ajolsavsky/github-readme-stats)
 
 <table>
 <thead>
