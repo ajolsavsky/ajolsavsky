@@ -20,8 +20,8 @@ Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</
 </tr>
   </table>
   </thead>
+  
 ---
-
 <table>
 <thead>
 <tr>
