@@ -1,8 +1,10 @@
-<a href="mailto:alexandraolsavsky@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:alexandraolsavsky@gmail.com">![alexandraolsavsky@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://linkedin.com/in/alexandraolsavsky">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends-banner.gif)
+
+I'm a Full Stack Software Developer with roots as a nonprofit leader and professional singer. Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</a> to learn about my journey and view my projects!
 
 - 👋 Hi, I’m @ajolsavsky
 - 👀 I’m interested in strength training, travel, and specialty coffee.
