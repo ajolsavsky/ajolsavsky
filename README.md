@@ -7,13 +7,16 @@
 I'm a full-stack software developer with roots as a nonprofit leader and professional singer.
 
 Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</a> to learn about my journey and view my projects!
+
 ---
 <table>
 <thead>
 <tr>
 <th>🏠 Chicago, IL</th>
 <th>🙍🏼‍♀️ She/Her pronouns</th>
-<th>💖 Travelling, coffee, fitness challenges</th>
+<th>💖 Travelling, soccer, composing</th>
+<th>☕️ Fueled by coffee (black)</th>
+  
 </tr>
   </table>
   </thead>
