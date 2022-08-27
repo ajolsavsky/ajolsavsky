@@ -4,7 +4,7 @@
 
 ![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends-banner.gif)
 
-(tl;dr) I'm a full-stack software developer with roots as a nonprofit leader and professional singer.
+I'm a full-stack software developer with roots as a nonprofit leader and professional singer.
 
 Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</a> to learn about my journey and view my projects!
 
@@ -20,12 +20,6 @@ Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</
 </tr>
   </table>
   </thead>
-
-- 👋 Hi, I’m @ajolsavsky
-- 👀 I’m interested in strength training, travel, and specialty coffee.
-- 🌱 I’m currently learning how to code! I'm in bootcamp.
-- 💞️ I’m looking to collaborate on plenty of new things.
-- 📫 How to reach me: alexandraolsavsky@gmail.com
 
 <!---
 ajolsavsky/ajolsavsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
