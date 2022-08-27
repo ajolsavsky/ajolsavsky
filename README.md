@@ -1,5 +1,7 @@
 ![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends.gif)
 
+<img src="https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends.gif" alt="Hi friends, It's Alex Olsavsky!" max-width="100%"/>
+
 - 👋 Hi, I’m @ajolsavsky
 - 👀 I’m interested in strength training, travel, and specialty coffee.
 - 🌱 I’m currently learning how to code! I'm in bootcamp.
