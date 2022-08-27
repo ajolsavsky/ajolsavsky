@@ -4,9 +4,11 @@
 
 ![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends-banner.gif)
 
-I'm a full-stack software developer with roots as a nonprofit leader and professional singer.
+(tl;dr) I'm a full-stack software developer with roots as a nonprofit leader and professional singer.
 
 Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</a> to learn about my journey and view my projects!
+
+---
 
 - 👋 Hi, I’m @ajolsavsky
 - 👀 I’m interested in strength training, travel, and specialty coffee.
