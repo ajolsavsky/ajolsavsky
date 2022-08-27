@@ -1,4 +1,4 @@
-![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends.gif)
+![Hi friends, It's Alex Olsavsky!](https://tinytriumphs-upload.s3.us-east-2.amazonaws.com/uploads/hi-friends-banner.gif)
 
 - 👋 Hi, I’m @ajolsavsky
 - 👀 I’m interested in strength training, travel, and specialty coffee.
