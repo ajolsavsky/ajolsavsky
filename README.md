@@ -12,7 +12,7 @@ Check out my <a href="https://ajolsavsky.github.io/react-portfolio/">portfolio</
 <table>
 <thead>
 <tr>
-<th>🏠 Chicago, IL</th>
+<th>🏠 Evanston, IL</th>
 <th>🙍🏼‍♀️ She/Her pronouns</th>
 <th>💖 Travelling, soccer, composing</th>
 <th>☕️ Fueled by coffee (black)</th>
